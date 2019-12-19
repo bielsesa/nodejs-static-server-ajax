@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-static-server-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node server.js"
+  },
+  "author": "Biel Serrano <bielsesa@gmail.com> (redshift.es)",
+  "license": "MIT"
+}
