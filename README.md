@@ -16,5 +16,5 @@ Once you've done this, to start the server you only need to type:
 npm test
 ```
 in your terminal. The server will start at port 9000. You can change this value in the code, if needed.
-Then, navigate to localhost/9000 and the index.html webpage will appear.
+Then, navigate to `localhost:9000` and the index.html webpage will appear.
 Insert the data into the input textboxes and hit send. The data will appear in a div, below the form.
